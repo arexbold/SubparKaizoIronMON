@@ -1,8 +1,9 @@
 # Subpar Kaizo IronMON Unofficial Ruleset by [Arex](https://twitch.tv/Arex)
 
-This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](https://twitch.tv/iateyourpie)
-> Credit to the original contributors of the contents below outside of my edits to the ruleset: [UTDZac](https://github.com/UTDZac), [PyroMikeGit](https://github.com/PyroMikeGit), and [champred](https://github.com/champred)
-> Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
+This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](https://twitch.tv/iateyourpie)  
+ Credit to the original contributors of the contents below outside of my edits to the ruleset: [UTDZac](https://github.com/UTDZac), [PyroMikeGit](https://github.com/PyroMikeGit), and [champred](https://github.com/champred)  
+  
+ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 ## Contents
 - [WHY I MADE THIS RULESET](#why-i-made-this-ruleset)
@@ -15,17 +16,18 @@ This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](h
 ## Why I made this ruleset:
 
 > **I thought the biggest problem with Super Kaizo IronMON was that nobody was getting on runs because of the early game. It was taking on average 1500 resets for runners to get to the Safari Zone pivot which I felt was such a waste for such a cool concept of a challenge. Regular Kaizo Ironmon is already ridiculous as is. I'm not looking to play the same slot machine with worse odds. In my opinion, this update does not make Super Kaizo easier (because difficulty is subjective in this challenge) but makes it more interesting to run while fixing the early game.**
+> 
 > **Most of the challenge's rules are untouched but definitely look out for the additions/changes. Obviously this is not an official ruleset since I edited an already unofficial one but please feel free to use it! - Arex**
 
 ## General Rules for All Games
 
 0. ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) apply (unless overridden by any rules below)!
 1. Every Trainer has **SMART AI**, this requires a [ROM patch](#smart-ai-rom-patches)
-> ~~2. Every Trainer has Sensible held items (For Gen 3 games: include Consumable only)~~
-2. **Every Trainer from lvl 35 and up have Sensible held items which include berries AND stat/type-enhancing held-items.** (**SUPBAR CHANGE**)
+2. **Every Trainer from lvl 35 and up have Sensible held items which include berries AND stat/type-enhancing held-items.** (**SUPBAR CHANGE**) ~~Every Trainer has Sensible held items (For Gen 3 games: include Consumable only)~~ 
+   - You'll see held items starting around Lt. Surge
    - This requires a patched randomizer jar file made by Xenflux: (link pending)
-3. Every Gym Leader now has 6 Pokemon
-4. **SUBPAR ADDITION:** Starter TMs and Held-Items
+4. Every Gym Leader now has 6 Pokemon
+5. Starter TMs and Held-Items (**NEW SUBPAR ADDITION**)
    - The **first** 3 TMs you pick up are your Starter TMs for the Safari Zone Pivot.
       - These have to be from the field only.
       - Yes, finding a gym leader's TM counts.
@@ -35,7 +37,7 @@ This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](h
    - You must pick 1 Starter TM and Held-Item once you make your Safari Zone Pivot.
       - You may not use these on any of the potential pivots. Only on the **confirmed** pivot.
    - To clarify, the TM and held-item you pick is legal to use on your Safari Zone Pivot for the rest of the run.
-5. Safari Zone Pivot: You must pivot to a NEW Pokémon about midway through the game, before beating the game:
+6. Safari Zone Pivot: You must pivot to a NEW Pokémon about midway through the game, before beating the game:
    - See [Game Specific Rules](#game-specific-rules) for when this must be done, usually after the 4th Gym and/or in the Safari Zone
    - Only Pokémon that have defeated a Gym Leader can enter the Safari Zone, or otherwise be used for Mid-game pivoting
    - For this "pivot", you may catch 3 Pokémon and compare them. You may level, evo, teach TMs, etc. to any of the 3. You must eventually settle on using ONE of them.
@@ -44,24 +46,24 @@ This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](h
       - It must be different than any Pokémon you were running before; if it later evolves into one of those Pokémon, that's OK
       - You may reenter each Dungeon one additional time
       - **You must beat the game with this new Pokémon**
-6. All Hidden Items ~~are banned except:~~
-~~- Those found in Dungeons/Caves are allowed~~
-~~- Those found in the early game, [cut-off points vary for each game](#game-specific-rules)~~
-~~- ALL Step Items (Mt. Moon, etc) are banned no matter where they are~~
+7. All Hidden Items ~~are banned except:~~
    - ALL hidden items throughout the run are now allowed. (**SUPBAR CHANGE**)
-   - ALL Step Items (Mt. Moon, etc) are are now allowed. (**SUPBAR CHANGE**)
-7. Additional Banned Abilities:
+   - ALL Step Items (Mt. Moon, etc) are are now allowed. (**SUPBAR CHANGE**)  
+ ~~- Those found in Dungeons/Caves are allowed~~  
+ ~~- Those found in the early game, [cut-off points vary for each game](#game-specific-rules)~~  
+ ~~- ALL Step Items (Mt. Moon, etc) are banned no matter where they are~~  
+9. Additional Banned Abilities:
    - **Battle Armor** / **Shell Armor**
    - **Pickup** is okay except you can't use items from it (toss them)
    - **ALL banned abilities from Super AND Kaizo are now allowed on Pokemon with BST 420 and below** (**SUPBAR CHANGE**)
-8. Additional Banned Items when fighting Gym Leaders, Elite 4, or final Trainer of the game:
+10. Additional Banned Items when fighting Gym Leaders, Elite 4, or final Trainer of the game:
    - **X Speed**
    - **X Attack**
    - **X Special Attack**
-9. Additional Banned Moves when fighting Gym Leaders, Elite 4, or final Trainer of the game:
+11. Additional Banned Moves when fighting Gym Leaders, Elite 4, or final Trainer of the game:
    - Any pure setup move, that isn't temporary and doesn't deal damage, such as Swords Dance, Focus Energy, Defense Curl, etc.
    - Moves like Rage, Charge Beam, Light Screen, etc. are legal and okay to use
-10. Unbanned Moves:
+11. Unbanned Moves:
    - Attacking moves with HP draining effects such as Giga Drain are legal; you can't exploit healing off of wild Pokémon.
    - Non-attacking moves such as Pain Split, Leech Seed, etc. are still banned
 11. Only one HM Friend allowed prior to Mid-game pivot, to prevent unnecessarily scouting moves on all Pokémon
@@ -72,8 +74,7 @@ This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](h
 ### Fire Red / Leaf Green
 
 0. All other [FRLG specific Kaizo rules](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#fire-red--leaf-green) apply, unless changed below
-> ~~1. The hidden items prior to entering Mt. Moon are allowed to be picked up~~
-1. Per above you are no longer restricted hidden items after Mt. Moon. (**SUPBAR CHANGE**)
+1. Per above you are no longer restricted hidden items after Mt. Moon. (**SUPBAR CHANGE**) ~~The hidden items prior to entering Mt. Moon are allowed to be picked up~~
 2. Misty's Gym must be completed IMMEDIATELY after getting the Nugget from Nugget Bridge
 3. Erika's Gym must be completed before entering Rocket Hideout
 4. No fighting trainers in S.S. Anne, except for the Rival to get Cut
