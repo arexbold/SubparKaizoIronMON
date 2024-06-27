@@ -2,6 +2,7 @@
 
 This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](https://twitch.tv/iateyourpie)  
  Credit to the original contributors of the contents below outside of my edits to the ruleset: [UTDZac](https://github.com/UTDZac), [PyroMikeGit](https://github.com/PyroMikeGit), and [champred](https://github.com/champred)  
+ The original ruleset: [https://github.com/PyroMikeGit/SuperKaizoIronMON](https://github.com/PyroMikeGit/SuperKaizoIronMON)
   
  Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
