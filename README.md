@@ -55,7 +55,7 @@ This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](h
 9. Additional Banned Abilities:
    - **Battle Armor** / **Shell Armor**
    - **Pickup** is okay except you can't use items from it (toss them)
-   - **ALL banned abilities from Super AND Kaizo are now allowed on Pokemon with BST 420 and below** (**SUPBAR CHANGE**)
+   - **All banned abilities are allowed on Pokemon with 420 BST and below** (**SUPBAR CHANGE**)
 10. Additional Banned Items when fighting Gym Leaders, Elite 4, or final Trainer of the game:
    - **X Speed**
    - **X Attack**
