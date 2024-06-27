@@ -25,7 +25,7 @@ This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](h
 1. Every Trainer has **SMART AI**, this requires a [ROM patch](#smart-ai-rom-patches)
 2. **Every Trainer from lvl 35 and up have Sensible held items which include berries AND stat/type-enhancing held-items.** (**SUPBAR CHANGE**) ~~Every Trainer has Sensible held items (For Gen 3 games: include Consumable only)~~ 
    - You'll see held items starting around Lt. Surge
-   - This requires a patched randomizer jar file made by Xenflux: (link pending)
+   - This requires a patched randomizer jar and settings made by Xenflux: [Download here](https://github.com/arexbold/SubparKaizoIronMON/releases/tag/v1) (For now, requires Java 11)
 4. Every Gym Leader now has 6 Pokemon
 5. Starter TMs and Held-Items (**NEW SUBPAR ADDITION**)
    - The **first** 3 TMs you pick up are your Starter TMs for the Safari Zone Pivot.
@@ -99,13 +99,9 @@ Apply patches using this website: [RomPatcher JS](https://www.marcrobledo.com/Ro
 
 - FireRed / Leaf Green: [Download](https://github.com/tom-overton/pokefirered/releases/tag/smart-ai-v2)
    - Maple's Quality of Life w/ Smart AI included: [Download](https://github.com/DrMaple/Faster-FireRed-Super-Kaizo/releases/latest)
-- Emerald: [Download](https://github.com/CyanSMP64/Emerald_Smart_AI/releases/tag/smart-ai)
-- Heart Gold: [Download](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/tag/0.0.2)
-- Platinum:
-   - Use the Smart AI Randomizer below
 
 ### Modified Randomizer jar
-- This randomizer jar is required for setup with your tracker. (pending link) by Xenflux(pending)
+- This requires a patched randomizer jar and settings made by Xenflux: [Download here](https://github.com/arexbold/SubparKaizoIronMON/releases/tag/v1) (For now, requires Java 11)
 
 ## Randomizer Settings Strings
 
@@ -116,12 +112,10 @@ Apply patches using this website: [RomPatcher JS](https://www.marcrobledo.com/Ro
 ### Ironmon Trackers
 
 - GBA Tracker (Gen 3: FRLG / Emerald): [Download](https://github.com/besteon/Ironmon-Tracker/releases/latest)
-- NDS Tracker (Gen 4-5: HGSS / Platinum): [Download](https://github.com/Brian0255/NDS-Ironmon-Tracker)
 
 ### Original Rules Links
 
 - Fire Red / Leaf Green rules [Pastebin](https://pastebin.com/nWAXrPEE)
-- Heart Gold rules [Gist](https://gist.github.com/piebandit/b58c02bad84f4ba9ac81c229f8f712bc) with pivoting info
 
 ### Tracking Spreadsheets
 
