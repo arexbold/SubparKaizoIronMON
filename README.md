@@ -37,6 +37,7 @@ This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](h
       - To clarify, you can't use anything like Leftovers, Scope Lens, etc.
    - You must pick 1 Starter TM and Held-Item once you make your Safari Zone Pivot.
       - You may not use these on any of the potential pivots. Only on the **confirmed** pivot.
+   - You cannot use the held-item on any Pokemon over 505 BST.
    - To clarify, the TM and held-item you pick is legal to use on your Safari Zone Pivot for the rest of the run.
 6. Safari Zone Pivot: You must pivot to a NEW Pokémon about midway through the game, before beating the game:
    - See [Game Specific Rules](#game-specific-rules) for when this must be done, usually after the 4th Gym and/or in the Safari Zone
