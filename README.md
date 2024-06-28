@@ -31,7 +31,7 @@ This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](h
 5. Starter TMs and Held-Items (**NEW SUBPAR ADDITION**)
    - The **first** 3 TMs you pick up are your Starter TMs for the Safari Zone Pivot.
       - These have to be from the field only.
-      - Yes, finding a gym leader's TM counts.
+      - If you find a Gym TM as one of your field TMs, it still counts towards your three.
    - The **first** 3 type-enhancing held-items you find are your Starter Held-Items for the Safari Zone Pivot.
       - These are items like Dragon Fang, Sharp Beak, etc. The ones that boost a typing's damage.
       - To clarify, you can't use anything like Leftovers, Scope Lens, etc.
