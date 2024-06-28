@@ -59,7 +59,7 @@ This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](h
    - **Pickup** is okay except you can't use items from it (toss them)
    - **All banned abilities are allowed on Pokemon with 420 BST and below** (**SUBPAR CHANGE**)
    - **You are allowed to use Huge/Pure Power on any Pokemon as long as you never use a Physical move. (**SUBPAR CHANGE**)
-     - You cannot use Metronome, Mirror Move, or Mimic if the mon is over 420 BST.(**SUBPAR CHANGE**)
+     - If you have Huge Power, you cannot use Metronome, Mirror Move, or Mimic if the mon is over 420 BST.(**SUBPAR CHANGE**)
 10. Additional Banned Items when fighting Gym Leaders, Elite 4, or final Trainer of the game:
    - **X Speed**
    - **X Attack**
