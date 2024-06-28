@@ -93,6 +93,9 @@ This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](h
 
 > \* Sevii Note: After defeating Blaine, visit Cinnabar Island's Pokémon Center to speak to Bill to visit Sevii Islands. The Move Relearner requires 2 Tiny Mushrooms or 1 Big Mushroom per move.
 
+### Fire Red / Leaf Green National Dex version
+- ~~All mons 580 BST and up are banned.~~ You can now use any mon that's under 600 BST again. (**SUBPAR CHANGE**)
+
 ### Other Games
 
 - I specifically made this ruleset for FireRed so there's nothing for other games for now.
