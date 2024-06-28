@@ -28,14 +28,14 @@ This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](h
    - You'll see held items starting around Lt. Surge
    - This requires a patched randomizer jar and settings made by Xenflux: [Download here](https://github.com/arexbold/SubparKaizoIronMON/releases/tag/v1) (For now, requires Java 11)
 4. Every Gym Leader now has 6 Pokemon
-5. Starter TMs and Held-Items (**NEW SUBPAR ADDITION**)
-   - The **first** 3 TMs you pick up are your Starter TMs for the Safari Zone Pivot.
+5. Pivot TMs and Held-Items (**NEW SUBPAR ADDITION**)
+   - The **first** 3 TMs you pick up are your Pivot TMs for the Safari Zone Pivot.
       - These have to be from the field only.
       - If you find a Gym TM as one of your field TMs, it still counts towards your three.
-   - The **first** 3 type-enhancing held-items you find are your Starter Held-Items for the Safari Zone Pivot.
+   - The **first** 3 type-enhancing held-items you find are your Pivot Held-Items for the Safari Zone Pivot.
       - These are items like Dragon Fang, Sharp Beak, etc. The ones that boost a typing's damage.
       - To clarify, you can't use anything like Leftovers, Scope Lens, etc.
-   - You must pick 1 Starter TM and Held-Item once you make your Safari Zone Pivot.
+   - You must pick 1 Pivot TM and Held-Item once you make your Safari Zone Pivot.
       - You may not use these on any of the potential pivots. Only on the **confirmed** pivot.
    - You cannot use the held-item on any Pokemon over 505 BST.
    - To clarify, the TM and held-item you pick is legal to use on your Safari Zone Pivot for the rest of the run.
