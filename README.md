@@ -24,7 +24,7 @@ This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](h
 
 0. ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) apply (unless overridden by any rules below)!
 1. Every Trainer has **SMART AI**, this requires a [ROM patch](#smart-ai-rom-patches)
-2. **Every Trainer from lvl 35 and up have Sensible held items which include berries AND stat/type-enhancing held-items.** (**SUPBAR CHANGE**) ~~Every Trainer has Sensible held items (For Gen 3 games: include Consumable only)~~ 
+2. **Every Trainer from lvl 35 and up have Sensible held items which include berries AND stat/type-enhancing held-items.** (**SUBPAR CHANGE**) ~~Every Trainer has Sensible held items (For Gen 3 games: include Consumable only)~~ 
    - You'll see held items starting around Lt. Surge
    - This requires a patched randomizer jar and settings made by Xenflux: [Download here](https://github.com/arexbold/SubparKaizoIronMON/releases/tag/v1) (For now, requires Java 11)
 4. Every Gym Leader now has 6 Pokemon
@@ -48,15 +48,15 @@ This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](h
       - You may reenter each Dungeon one additional time
       - **You must beat the game with this new Pokémon**
 7. All Hidden Items ~~are banned except:~~
-   - ALL hidden items throughout the run are now allowed. (**SUPBAR CHANGE**)
-   - ALL Step Items (Mt. Moon, etc) are are now allowed. (**SUPBAR CHANGE**)  
+   - ALL hidden items throughout the run are now allowed. (**SUBPAR CHANGE**)
+   - ALL Step Items (Mt. Moon, etc) are are now allowed. (**SUBPAR CHANGE**)  
  ~~- Those found in Dungeons/Caves are allowed~~  
  ~~- Those found in the early game, [cut-off points vary for each game](#game-specific-rules)~~  
  ~~- ALL Step Items (Mt. Moon, etc) are banned no matter where they are~~  
 9. Additional Banned Abilities:
    - **Battle Armor** / **Shell Armor**
    - **Pickup** is okay except you can't use items from it (toss them)
-   - **All banned abilities are allowed on Pokemon with 420 BST and below** (**SUPBAR CHANGE**)
+   - **All banned abilities are allowed on Pokemon with 420 BST and below** (**SUBPAR CHANGE**)
 10. Additional Banned Items when fighting Gym Leaders, Elite 4, or final Trainer of the game:
    - **X Speed**
    - **X Attack**
@@ -75,7 +75,7 @@ This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](h
 ### Fire Red / Leaf Green
 
 0. All other [FRLG specific Kaizo rules](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#fire-red--leaf-green) apply, unless changed below
-1. Per above you are no longer restricted hidden items after Mt. Moon. (**SUPBAR CHANGE**) ~~The hidden items prior to entering Mt. Moon are allowed to be picked up~~
+1. Per above you are no longer restricted hidden items after Mt. Moon. (**SUBPAR CHANGE**) ~~The hidden items prior to entering Mt. Moon are allowed to be picked up~~
 2. Misty's Gym must be completed IMMEDIATELY after getting the Nugget from Nugget Bridge
 3. Erika's Gym must be completed before entering Rocket Hideout
 4. No fighting trainers in S.S. Anne, except for the Rival to get Cut
