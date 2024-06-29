@@ -26,7 +26,7 @@ This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](h
 1. Every Trainer has **SMART AI**, this requires a [ROM patch](#smart-ai-rom-patches)
 2. **Every Trainer from lvl 35 and up have Sensible held items which include berries AND stat/type-enhancing held-items.** (**SUBPAR CHANGE**) ~~Every Trainer has Sensible held items (For Gen 3 games: include Consumable only)~~ 
    - You'll see held items starting around Lt. Surge
-   - ~~This requires a patched randomizer jar and settings made by Xenflux: [Download here]() (For now, requires Java 11)~~ We'll bring this back. For now unavailable.
+   - This requires a patched randomizer jar and settings made by Xenflux: [Download here](https://github.com/arexbold/SubparKaizoIronMON/releases)
 4. Every Gym Leader now has 6 Pokemon
 5. Pivot TMs and Held-Items (**NEW SUBPAR ADDITION**)
    - The **first** 3 TMs you pick up are your Pivot TMs for the Safari Zone Pivot.
@@ -108,7 +108,8 @@ Apply patches using this website: [RomPatcher JS](https://www.marcrobledo.com/Ro
    - Maple's Quality of Life w/ Smart AI included: [Download](https://github.com/DrMaple/Faster-FireRed-Super-Kaizo/releases/latest)
 
 ### Modified Randomizer jar
-- ~~This requires a patched randomizer jar and settings made by Xenflux: [Download here]() (For now, requires Java 11)~~ We'll bring this back. For now unavailable.
+- This requires a patched randomizer jar and settings made by Xenflux: [Download here](https://github.com/arexbold/SubparKaizoIronMON/releases)
+- Credit to the original [Universal Pokemon Randomizer](https://github.com/Ajarmar/universal-pokemon-randomizer-zx)
 
 ## Randomizer Settings Strings
 
