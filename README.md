@@ -103,7 +103,7 @@ This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](h
 Apply patches using this website: [RomPatcher JS](https://www.marcrobledo.com/RomPatcher.js/)
 
 - FireRed / Leaf Green: [Download](https://github.com/tom-overton/pokefirered/releases/tag/smart-ai-v2)
-   - Maple's Quality of Life w/ Smart AI included: [Download](https://github.com/DrMaple/Faster-FireRed-Super-Kaizo/releases/latest)
+   
 
 ### Modified Randomizer jar
 - This requires a patched randomizer jar and settings made by Xenflux: [Download here](https://github.com/arexbold/SubparKaizoIronMON/releases)
