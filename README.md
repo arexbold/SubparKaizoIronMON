@@ -85,7 +85,7 @@ This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](h
    - You can leave and come back if you need to check Pokémon moves outside
 6. You may visit Sevii Islands\* to use the Move Relearner, with some restrictions:
    - You cannot take any items on Sevii, trash any that you get
-   - However, any items given to you from the Bill Quest (Full Restore, Iapapa Berry) you are ALLOWED to keep
+   - ~~However, any items given to you from the Bill Quest (Full Restore, Iapapa Berry) you are ALLOWED to keep~~ You are not allowed to take the free Full Restore from Bill's Quest. (**SUBPAR CHANGE**)
    - You can only fight Trainers on Island Three
    - Treat Sevii like a Dungeon: Once you start fighting Trainers, you cannot heal at a Pokémon Center until you leave
 
