@@ -48,7 +48,7 @@ This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](h
       - **You must beat the game with this new Pokémon**
 7. All Hidden Items ~~are banned except:~~
    - ALL hidden items throughout the run are now allowed. (**SUBPAR CHANGE**)
-   - ALL Step Items (Mt. Moon, Tunnels, etc) are now allowed but only after you make your Safari Zone pivot. (**SUBPAR CHANGE**)  
+   - ALL Step Items (Mt. Moon, Tunnels, etc) are now allowed but only AFTER you make your locked in Safari Zone pivot. (**SUBPAR CHANGE**)   
  ~~- Those found in Dungeons/Caves are allowed~~  
  ~~- Those found in the early game, [cut-off points vary for each game](#game-specific-rules)~~  
  ~~- ALL Step Items (Mt. Moon, etc) are banned no matter where they are~~  
