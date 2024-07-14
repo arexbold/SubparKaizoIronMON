@@ -66,7 +66,7 @@ This is a modified version of the Super Kaizo IronMON ruleset by [iateyourpie](h
    - Any pure setup move, that isn't temporary and doesn't deal damage, such as Swords Dance, Focus Energy, Defense Curl, etc.
    - Moves like Rage, Charge Beam, Light Screen, etc. are legal and okay to use
 11. Unbanned Moves:
-   - Attacking moves with HP draining effects such as Giga Drain are legal; you can't exploit healing off of wild Pokémon.
+   - Attacking moves with HP draining effects such as Giga Drain are legal; you can't exploit healing off of wild Pokémon. BUT these moves are banned for the Safari Zone pivot (**SUBPAR CHANGE**)
    - Non-attacking moves such as Pain Split, Leech Seed, etc. are still banned
 11. Only one HM Friend allowed prior to Mid-game pivot, to prevent unnecessarily scouting moves on all Pokémon
 12. No [Legendary](https://www.serebii.net/pokemon/legendary.shtml) favorites
